@@ -1,4 +1,4 @@
 ![Clock](Readme/Clock.png)
 
 # Clock
-I wanted to measure how many time I can waste so I made a clock. And thats was a waste of time. :) 
+I wanted to measure how much time I can waste so I made a clock. And that was a waste of time. :)
